@@ -1,0 +1,27 @@
+#  Local .terraform directories
+**/.terraform/*
+/client_golang/*
+client_golang/*
+client_golang/
+
+#prometheus
+/prom/*
+prom/*
+!prom/prom.yml
+!prom/prometheus.yml
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# idea files
+.idea/*
+/.idea/*
+
+.git/*
+
+# sensetive data
+providers.tf

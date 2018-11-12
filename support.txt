@@ -1,0 +1,4 @@
+https://cloud.google.com/docs/authentication/getting-started
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/[FILE_NAME].json"
+
