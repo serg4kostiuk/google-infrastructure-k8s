@@ -2,3 +2,9 @@ https://cloud.google.com/docs/authentication/getting-started
 
 export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/[FILE_NAME].json"
 
+nping 
+#ping remote port
+nc -vz 13.68.128.183 50000
+wget 13.68.128.183:50000
+telnet 13.68.128.183 50000
+nping -p 50000 13.68.128.183
