@@ -116,7 +116,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>3.6.5.Final</version>
+			<version>4.1.1.Final</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
@@ -158,21 +158,21 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-core</artifactId>
-			<version>3.0.5.RELEASE</version>
+			<version>4.2.3.RELEASE</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-config</artifactId>
-			<version>3.0.5.RELEASE</version>
+			<version>4.2.3.RELEASE</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-web</artifactId>
-			<version>3.0.5.RELEASE</version>
+			<version>4.2.3.RELEASE</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
@@ -186,7 +186,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.17</version>
+			<version>5.1.41</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -216,14 +216,14 @@
 		<dependency>
 			<groupId>net.sf.jasperreports</groupId>
 			<artifactId>jasperreports</artifactId>
-			<version>4.0.1</version>
+			<version>6.4.1</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
-			<version>3.0.5.RELEASE</version>
+			<version>4.2.3.RELEASE</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
